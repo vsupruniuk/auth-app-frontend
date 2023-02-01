@@ -2,7 +2,7 @@
   "name": "login-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vsupruniuk.github.io/auth-app-frontend",
+  "homepage": "https://vsupruniuk.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.1",
     "axios": "^0.27.2",
