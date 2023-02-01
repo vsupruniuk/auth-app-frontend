@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/auth-app-frontend/static/css/main.b2798a73.css",
-    "main.js": "/auth-app-frontend/static/js/main.32dbb2dc.js",
+    "main.js": "/auth-app-frontend/static/js/main.dad9a25a.js",
     "static/media/fa-solid-900.ttf": "/auth-app-frontend/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/auth-app-frontend/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fa-solid-900.woff2": "/auth-app-frontend/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/auth-app-frontend/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/auth-app-frontend/index.html",
     "main.b2798a73.css.map": "/auth-app-frontend/static/css/main.b2798a73.css.map",
-    "main.32dbb2dc.js.map": "/auth-app-frontend/static/js/main.32dbb2dc.js.map"
+    "main.dad9a25a.js.map": "/auth-app-frontend/static/js/main.dad9a25a.js.map"
   },
   "entrypoints": [
     "static/css/main.b2798a73.css",
-    "static/js/main.32dbb2dc.js"
+    "static/js/main.dad9a25a.js"
   ]
 }
